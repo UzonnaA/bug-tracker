@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using BugTracker.Models;
+using BugTracker.Model;
 
 namespace BugTracker.Data
 {

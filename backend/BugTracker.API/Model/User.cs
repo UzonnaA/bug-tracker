@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace BugTracker.Models
+namespace BugTracker.Model
 {
     public class User
     {
